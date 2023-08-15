@@ -33,3 +33,42 @@
 - ISSO : Responsible for securing data
 ```
 
+
+--- 
+
+- Security Controls: 
+> - Measures to ensure security across the organization.
+> - Types: Depending on how we implement them
+```
+- Technical - Hardware and Software
+- Operational - Human factor
+- Manegerial - High Level Guidance
+```
+> - Types: Depending on their goals.
+```
+- Preventitive - stops attack or prevent it.
+- Detective - Record, log, inform, alert or detect the attack
+- Corrective - recover from attack
+- Deterrent - discourages human attackers
+- Compensating - "at least we have this"
+- physical - light, camera, doors, etc
+```
+
+---
+
+- Popular Standards and Regulations
+```
+- GDPR - General Data Protection Regulation for European Contries.
+- GLBA - Gramm-Leach-Bliley Act for financial services.
+- SOX - Sarbanes–Oxley Act for financial services in US.
+- CSA - Computer Security Act
+- FISMA - Fedaral Information Security Management Act
+- HIPPA -  Health Insurance Portability and Accountability Act
+- CCPA - California Consumer Privacy Act
+- PCI DSS - Payment Card Industry Data Security Standard
+```
+
+
+
+
+
