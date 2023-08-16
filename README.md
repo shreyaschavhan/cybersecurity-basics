@@ -34,6 +34,7 @@
 ```
 
 
+
 --- 
 
 - Security Controls: 
@@ -68,7 +69,56 @@
 - PCI DSS - Payment Card Industry Data Security Standard
 ```
 
+--- 
+
+- Vulnerability
+> - Vulnerability is anything (any sort of weakness) that helps the attacker in attacking or exploiting our system to cause a negative impact.
+
+---
+
+- Threat
+> - Threat is the potential of that vulnerability to exploit our system to cause an impact. And how likely that the vulnerability will be exploited.
+
+--- 
+
+- Risk
+> - Risk = Vulnerability + Threat
+
+---
+
+- APT - Advanced Persistent Threat
+> - This type of attacks are persistent in nature, meaning the hacker can not only exploit the system but can also maintain persistent access to it, also covering the tracks of the attack.
+
+--- 
+
+- Attack Surface
+> - How much exposed you are to attack. How many inputs the attacker can tamper with in order to try to gain access to the system.
+
+---
+
+- Attack vector
+
+> - Point of entry by which an attack can happen is known as attack vector.
+> - Common attack vectors:
+
+```
+- Email
+- Removable media
+- Wireless
+- Websites
+- Social Media
+- Instant Messaging platform
+- Local workstation access
+- Cloud
+- Supply Chain
+```
+
+---
 
 
+---
 
+- `Footnotes`: 
+> - [CompTIA Security+ Full Course on Youtube](https://youtube.com/playlist?list=PLMYSjEaGLw_uut80YG0zyLsrPJ94Y8LU9)
+> - Random Google Searches + ChatGPT
 
