@@ -115,7 +115,15 @@
 
 ---
 
+- Threat Intelligence:
+> - It refers to the information and knowledge collected about potential cyber threats, like viruses, trojans, hackers, or other malicious activities.
 
+---
+
+- Threat Modeling:
+> - It's like creating a map of all possible threats for a system.
+
+---
 ---
 
 - `Footnotes`: 
