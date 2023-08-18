@@ -124,6 +124,78 @@
 > - It's like creating a map of all possible threats for a system.
 
 ---
+
+- Network Recon:
+> - It's a process of gathering information about a target network, it's devices, services, and configurations.
+> - Basic tools:
+
+```
+- ipconfig / ifconfig /ip
+- ping
+- arp
+- route
+- traceroute / trace / tracert
+- mtr
+- pathping
+- Nmap: Network Mapper
+> - Network Sweep : we can do this using ping too
+> - Service discovery
+> - Version detection
+> - OS footprinting
+- netstat
+- theHarvester
+- curl
+- nessus
+- scanless
+
+```
+
+- DNS Recon:
+> - It's kind of Network recon but more specific in nature and focuses on DNS.
+> - DNS recon involves querying DNS servers and records to collect valuable information about a target's domain names and network infrastructure
+> - Basic DNS Recon Tools
+```
+- nslookup
+- dig
+- host
+- dnsenum
+```
+
+- Packet Capture and Analysis
+> - This also comes under network recon.
+> - It's kind of a technique that invovles capturing and examining network packets to understand and troubleshoot network activity, diagnose issues, monitor performance, and identify security threats.
+> - Tools:
+```
+- tcpdump
+- wireshark
+```
+
+- Packet Injection
+> - Technique to send custom crafted packets.
+> - Tools:
+```
+- hping
+- scapy
+- tcpreplay
+```
+
+```
+Detailed Notes Here: https://github.com/shreyaschavhan/network-recon
+```
+
+---
+
+## To learn more about (in-tray):
+
+- Zonetransfer
+
+## To make notes on (in-tray):
+
+- Here: https://github.com/shreyaschavhan/network-recon
+   - Network recon tools
+   - DNS recon tools
+
+---
 ---
 
 - `Footnotes`: 
