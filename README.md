@@ -185,6 +185,96 @@ Detailed Notes Here: https://github.com/shreyaschavhan/network-recon
 
 ---
 
+- 0-day
+> - Vulnerability that doesn't have any existing patch yet.
+
+---
+
+- Social Engineering
+> - Hacking the Human in short.
+> - Techniques:
+```
+- impersonation
+- Dumpster Diving
+- Tailgating
+- Piggybacking
+- Shoulder surfing
+- "Lunchtime" attacks
+- phishing
+- Vishing
+- SMiShing
+- Pharming
+- Typosquatting
+- "Watering hole"
+```
+---
+
+- Malware
+> - Types by infection vector:
+```
+- Viruses: Viruses are malware that victim has to interact with and trigger it's execution.
+- Worms: Worms executes automatically and doesn't require user interaction.
+- Trojans: They appear to be good software but they contains additional malicious code.
+- Grayware: bloatware, unwanted preinstalled softwares. They don't do malicious by default but theya are annoying.
+```
+
+- Virus Types:
+```
+- file-based
+- memory-based
+- boot-sector based
+- script or macro-based
+- multipartite viruses
+```
+
+- Shellcode:
+> - small piece of executable code that can be passsed in web requests/replies, does not need a physical file on the disk.
+
+- Spyware:
+> - Software that monitor activity of user/host.
+
+- Keyloggers:
+> - It catches key strokes that you type.
+
+- Adware:
+> - Software sponsored by ads.
+
+- Backdoors:
+> - Ensure a hacker's remote access to a compromised system.
+> - Also known as RATs (Remote Access Trojans)
+
+- Botnet:
+> - Command and control network malwares.
+
+- Rootkit:
+> - Executed with root/system privileges.
+
+- Ransomware/CryptoLocker:
+> - Encrypt data, ask you for ransom in exchange of decryption key.
+> - Have backup of all files.
+
+- Crypto-malware:
+> - Use your resources to mine crypto currency.
+
+- Logic Bomb:
+> - Schedule itself to be able to execute if some condition is met.
+
+- Detecting Malwares:
+```
+- Anti-virus/malware solutions.
+- Sandbox execution and monitoring.
+- Resource Monitoring.
+- File system monitoring (Tripwire).
+- Network Traffic analysis.
+- Process Analysis.
+```
+
+
+---
+
+
+
+
 ## To learn more about (in-tray):
 
 - Zonetransfer
@@ -195,7 +285,6 @@ Detailed Notes Here: https://github.com/shreyaschavhan/network-recon
    - Network recon tools
    - DNS recon tools
 
----
 ---
 
 - `Footnotes`: 
