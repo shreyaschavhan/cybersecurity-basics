@@ -267,13 +267,15 @@ Detailed Notes Here: https://github.com/shreyaschavhan/network-recon
 - File system monitoring (Tripwire).
 - Network Traffic analysis.
 - Process Analysis.
+-  
 ```
+---
+
+- Cryptography
+> I had an entire subject on this in 3rd year.
 
 
 ---
-
-
-
 
 ## To learn more about (in-tray):
 
