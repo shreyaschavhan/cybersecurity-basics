@@ -274,8 +274,16 @@ Detailed Notes Here: https://github.com/shreyaschavhan/network-recon
 - Cryptography
 > I had an entire subject on this in 3rd year.
 
+- Digital Signatures
+> - Digital Signatures: hashing + encryption
+> - Basically it's just an encrypted hash.
 
----
+- Digital Envelope
+> - Provides secure data container to protect the entire message.
+
+
+
+
 
 ## To learn more about (in-tray):
 
