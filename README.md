@@ -281,7 +281,36 @@ Detailed Notes Here: https://github.com/shreyaschavhan/network-recon
 - Digital Envelope
 > - Provides secure data container to protect the entire message.
 
+---
 
+- Identity and Access Management (IAM)
+> - Triple A - AAA
+```
+- (Identification)
+- Authentication (AuthN)
+- Authorization (AuthZ)
+- Accounting
+```
+
+- Authentication in Computer Systems
+> - Knowledge based
+> - Kerberos: Active Directory Authentication and authorization system.
+```
+KDC: Key Distribution Center
+AS: Authentication Service
+TGT: Ticket Granting Ticket
+TGS: Ticket Granting Service
+```
+> - PAP: Password Authentication Protocol
+> - CHAP: Challenge Handshake Authentication Protocol
+
+- Authentication Technologies and Key Management
+```
+- Smart cards
+- USB Keys
+- TPM chips (Trusted Platform Modules)
+- HSM (Hardware Security Module)
+```
 
 
 
