@@ -312,6 +312,14 @@ TGS: Ticket Granting Service
 - HSM (Hardware Security Module)
 ```
 
+- Types of Accounts:
+> - Generic Users - less privilege
+> - Guest accounts - LEAST privilege / anonymous login
+> - Administrator - highest privilege
+> - Shared account - shared privilege
+> - Generic admin accounts - built in default accounts
+
+
 
 
 ## To learn more about (in-tray):
