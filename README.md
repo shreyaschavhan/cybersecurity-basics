@@ -319,6 +319,17 @@ TGS: Ticket Granting Service
 > - Shared account - shared privilege
 > - Generic admin accounts - built in default accounts
 
+---
+
+
+- Network Devices:
+```
+> - Switches & Access points
+> - Routers
+> - Firewalls
+> - Load balancers
+```
+
 
 
 
