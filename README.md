@@ -330,6 +330,34 @@ TGS: Ticket Granting Service
 > - Load balancers
 ```
 
+---
+
+- Firewall
+> - It's a device that sits between your traffic and decides if you wanna allow or deny traffic passing through it.
+> - If a traffic is not specifically allowed, it is dropped.
+> - Works based on rules:
+```
+- Access Control Lists (ACLs)
+- Implicit Deny
+- Layer 3&4: filter on src/dst IP, protocol type, src/dst port number
+- Layer 2 (MAC addresses)
+- direction: ingress vs egress
+```
+
+- Firewall Types:
+> - Simple: stateless firewall (packet-filtering firewall)
+```
+- No Session/connection tracking
+- needs rules for each packet in each direction
+```
+> - Comples: statefull firewalls
+```
+- seesion tracking/stateful inspection: firewall remembers the request going out and automatically allows the reply coming back in.
+- table memory
+- Layer 4 connection tracking (3 way handshake, UDP, ICMP)
+- Layer 7 inspection: application firewalls (per protocol)
+```
+
 
 
 
